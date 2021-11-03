@@ -1,4 +1,4 @@
-console.log("Example 1");
+console.log("🍂 Example 1 🍃");
 
 function sum(a, b) {
   return a + b;
