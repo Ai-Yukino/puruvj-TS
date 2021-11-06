@@ -1,4 +1,6 @@
-// 📝 Can't get external TS declaration file to work with this
-export default function sum(a, b) {
-  return a + b;
-}
+// 📝 Need to learn more about
+// node.js and how to use modules
+// 🔗 https://masteringjs.io/tutorials/node/import
+import { sum } from "./d";
+
+sum(1, 2);
